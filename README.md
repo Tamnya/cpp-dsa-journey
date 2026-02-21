@@ -10,5 +10,6 @@ Implemented:
 - Sum of digits of each element
 - Sum of elements
 - Average of elements
+- Find Second Largest element
 
 Time complexities documented in each file.
