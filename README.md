@@ -11,5 +11,6 @@ Implemented:
 - Sum of elements
 - Average of elements
 - Find Second Largest element
+- Linear Search
 
 Time complexities documented in each file.
