@@ -12,5 +12,6 @@ Implemented:
 - Average of elements
 - Find Second Largest element
 - Linear Search
+- Passing Array to Function
 
 Time complexities documented in each file.
