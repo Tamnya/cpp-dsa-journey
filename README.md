@@ -13,5 +13,7 @@ Implemented:
 - Find Second Largest element
 - Linear Search
 - Passing Array to Function
+- Remove Duplicates from sorted array
+- Binary Search
 
 Time complexities documented in each file.
