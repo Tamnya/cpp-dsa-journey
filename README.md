@@ -17,3 +17,7 @@ Implemented:
 - Binary Search
 
 Time complexities documented in each file.
+
+## Patterns - Loop Control Practice
+
+1. Solid Square Star Pattern (O(n^2))
